@@ -49,6 +49,38 @@ python mypersonality_scraper.py mypersonality_descriptions
 ```
 
 ---
+Certainly, here's the README using the provided template:
+
+---
+
+## 4. mbti_scraper.py
+Similar in functionality to other scraping scripts, this script targets the `typeinmind.com` website to extract descriptions of various MBTI personality types.
+
+**Usage**:
+While specific details are provided below, users should review the script to understand any unique nuances associated with the targeted website.
+
+1. Ensure you have Python 3.x installed.
+2. Install the necessary Python libraries:
+
+```
+pip install requests beautifulsoup4
+```
+
+3. Save the script into a file, e.g., `mbti_scraper.py`.
+4. Open your terminal or command prompt.
+5. Navigate to the directory where the script is located.
+6. Run the script specifying the folder where you want the files to be saved:
+
+**Example** (assuming similar usage as provided):
+
+```
+python mbti_scraper.py mbti_descriptions
+```
+
+After execution, you'll find all the text files with the extracted contents in the `mbti_descriptions` folder in your current directory.
+
+---
+---
 
 ## General Instructions:
 
